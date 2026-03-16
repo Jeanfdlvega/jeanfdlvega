@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👩🏻‍💻 Jean De La Vega
 
-<!--
-**Jeanfdlvega/jeanfdlvega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Consultor Sap ABAP`**
 
-Here are some ideas to get you started:
+# 👋 Olá, eu sou Jean De La Vega
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 💻 Consultor SAP ABAP com 2 anos de experiência
+- 🔗 Focado em **integrações** utilizando **CDS Views, OData e SAP CPI**
+- 🧩 Conhecimento sólido em **ABAP clássico e orientado a objetos**
+- ⚙️ Experiência com **BADIs, Exits, Reports e ALVs**
+- 🌐 Apaixonado por soluções escaláveis e integração entre sistemas
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **SAP ABAP** (clássico e OO)
+- **CDS Views**
+- **OData Services**
+- **SAP CPI (Cloud Platform Integration)**
+- **BADIs & Exits**
+- **ALVs & Reports**
+
+## 📈 Objetivos
+
+- Contribuir para projetos open-source relacionados a SAP
+- Compartilhar conhecimento sobre integração e boas práticas em ABAP
+- Expandir atuação em soluções **cloud** e **data-driven**
+
+## 📫 Contato
+
+- LinkedIn: Jean De La Vega https://www.linkedin.com/in/jean-francisco-de-la-vega/
+- Email: jeandelavega_contato@outlook.com
+- GitHub: https://github.com/Jeanfdlvega
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jeanvega&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanvega&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
