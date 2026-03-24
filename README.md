@@ -1,5 +1,3 @@
-# 👩🏻‍💻 Jean De La Vega
-
 **`Consultor Sap ABAP`**
 
 # 👋 Olá, eu sou Jean De La Vega
@@ -9,7 +7,7 @@
 - 💻 Consultor SAP ABAP com 2 anos de experiência
 - 🔗 Focado em **integrações** utilizando **CDS Views, OData e SAP CPI**
 - 🧩 Conhecimento sólido em **ABAP clássico e orientado a objetos**
-- ⚙️ ⚙️ Experiência com BADIs, BAPIs, Exits, Reports e ALVs
+- ⚙️ Experiência com BADIs, BAPIs, Exits, Reports e ALVs
 - 🌐 Apaixonado por soluções escaláveis e integração entre sistemas
 
 ## 🛠️ Tecnologias e Ferramentas
